@@ -2,7 +2,7 @@
 
 **Quang Huy Nguyen and Van Huy Pham**
 
-[![arXiv](https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b.svg)](https://arxiv.org/) [![IEEE](https://img.shields.io/badge/IEEE-Coming%20Soon-00629b.svg)](https://ieeexplore.ieee.org/)
+[![arXiv](https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b.svg)](https://arxiv.org/) [![IEEE](https://img.shields.io/badge/IEEE-Coming%20Soon-00629b.svg)](https://ieeexplore.ieee.org/) [![Dataset](https://img.shields.io/badge/Kaggle-Dataset-1abfff.svg)](https://www.kaggle.com/datasets/daddychillonkaggle/unirf-112k) 
 
 
 ## Abstract
@@ -14,7 +14,7 @@ The rapid advancement of generative models, spanning Generative Adversarial Netw
 
 - Name: UniRF-112K
 - Scale: 112,000 images collected from 9 state-of-the-art generators
-- Access: [Dataset link (coming soon)](https://example.com/unirf-110k)
+- Access: [Dataset link](https://www.kaggle.com/datasets/daddychillonkaggle/unirf-112k)
 - Protocol note: Zero-shot setting (train on ProGAN, test on unseen architectures)
 
 ![UniRF-112K Dataset Demo](UniRF-112K.jpg)
