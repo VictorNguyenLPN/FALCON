@@ -1,5 +1,7 @@
 # FALCON: Forensic Artifact-guided Localization and Contrastive Reasoning for Generalizable Synthetic Image Detection
 
+**Quang Huy Nguyen and Van Huy Pham**
+
 [![arXiv](https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b.svg)](https://arxiv.org/) [![IEEE](https://img.shields.io/badge/IEEE-Coming%20Soon-00629b.svg)](https://ieeexplore.ieee.org/)
 
 
