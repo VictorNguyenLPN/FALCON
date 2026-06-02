@@ -1,4 +1,4 @@
-# FALCON: Forensic Artifact-guided Localization and Contrastive Reasoning for Generalizable Synthetic Image Detection
+# FALCON: Forensic-Aware Language-guided Contrastive Learning for Generalized Synthetic Image Detection
 
 **Quang Huy Nguyen and Van Huy Pham**
 
