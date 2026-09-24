@@ -2,9 +2,9 @@
 
 **Quang Huy Nguyen**$^1$, **Keun Ho Ryu**$^2$, **Mutia Delina**$^4$, and **Van Huy Pham**$^4$
 
-$^1$*Natural Language Processing & Knowledge Discovery Laboratory, Faculty of Information Technology, Ton Duc Thang University, Ho Chi Minh city, Vietnam*
-$^2$*Data Science Laboratory, Faculty of Information Technology, Ton Duc Thang University, Ho Chi Minh city, Vietnam*  
-$^3$*Physics Department, Faculty of Mathematics and Natural Sciences, Universitas Negeri Jakarta, Jakarta, Indonesia*
+$^1$*Natural Language Processing & Knowledge Discovery Laboratory, Faculty of Information Technology, Ton Duc Thang University, Ho Chi Minh city, Vietnam* \
+$^2$*Data Science Laboratory, Faculty of Information Technology, Ton Duc Thang University, Ho Chi Minh city, Vietnam* \
+$^3$*Physics Department, Faculty of Mathematics and Natural Sciences, Universitas Negeri Jakarta, Jakarta, Indonesia* \
 $^4$*School of Technology, University of Management and Technology Ho Chi Minh City, Ho Chi Minh city, Vietnam*
 
 
